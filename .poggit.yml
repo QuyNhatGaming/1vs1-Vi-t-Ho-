@@ -1,0 +1,6 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/QuyNhatGaming/1vs1-Vi-t-Ho-
+build-by-default: true
+branches:
+- master
+projects: []
+...
